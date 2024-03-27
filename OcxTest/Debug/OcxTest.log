@@ -1,0 +1,34 @@
+﻿生成启动时间为 2024/3/27 16:51:11。
+     1>项目“D:\ActivXOcx\ActiveXOcx\OcxTest\OcxTest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\OcxTest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\OcxTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OcxTestDlg.cpp
+         OcxTestDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ActivXOcx\ActiveXOcx\Debug\OcxTest.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\OcxTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ActivXOcx\ActiveXOcx\Debug\OcxTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ActivXOcx\ActiveXOcx\Debug\OcxTest.lib" /MACHINE:X86 Debug\OcxTest.res
+         Debug\OcxTest.exe.embed.manifest.res
+         Debug\CDActiveXOcx.obj
+         Debug\CDActiveXOcxEvents.obj
+         Debug\OcxTest.obj
+         Debug\OcxTestDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\OcxTest.exe.embed.manifest" /manifest Debug\OcxTest.exe.intermediate.manifest D:\software\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         OcxTest.vcxproj -> D:\ActivXOcx\ActiveXOcx\Debug\OcxTest.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\OcxTest.unsuccessfulbuild”。
+         正在对“Debug\OcxTest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ActivXOcx\ActiveXOcx\OcxTest\OcxTest.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.44

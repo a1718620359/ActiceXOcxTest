@@ -1,0 +1,37 @@
+﻿生成启动时间为 2024/3/27 17:15:07。
+     1>项目“D:\ActivXOcx\ActiveXOcx\ActiveXOcx\ActiveXOcx.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\ActiveXOcx.unsuccessfulbuild”执行 Touch 任务。
+       Midl:
+         所有输出均为最新。
+       ClCompile:
+         所有输出均为最新。
+         D:\software\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ActiveXOcx.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ActiveXOcx.cpp
+         ActiveXOcx.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\software\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ActivXOcx\ActiveXOcx\Debug\ActiveXOcx.ocx" /INCREMENTAL /NOLOGO /DEF:".\ActiveXOcx.def" /MANIFEST /ManifestFile:"Debug\ActiveXOcx.ocx.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ActivXOcx\ActiveXOcx\Debug\ActiveXOcx.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ActivXOcx\ActiveXOcx\Debug\ActiveXOcx.lib" /MACHINE:X86 /DLL Debug\ActiveXOcx.res
+         Debug\ActiveXOcx.ocx.embed.manifest.res
+         Debug\ActiveXOcx.obj
+         Debug\ActiveXOcxCtrl.obj
+         Debug\ActiveXOcxPropPage.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ActiveXOcx.ocx.embed.manifest" /manifest Debug\ActiveXOcx.ocx.intermediate.manifest D:\software\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ActiveXOcx.vcxproj -> D:\ActivXOcx\ActiveXOcx\Debug\ActiveXOcx.ocx
+       RegisterOutput:
+         regsvr32 /s "D:\ActivXOcx\ActiveXOcx\Debug\ActiveXOcx.ocx"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ActiveXOcx.unsuccessfulbuild”。
+         正在对“Debug\ActiveXOcx.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ActivXOcx\ActiveXOcx\ActiveXOcx\ActiveXOcx.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70
